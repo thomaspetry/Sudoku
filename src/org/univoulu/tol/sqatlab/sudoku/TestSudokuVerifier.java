@@ -33,7 +33,7 @@ public class TestSudokuVerifier {
 	@Test
 	public void testRule1ResultsMinus1() {
 		int test = sudoku.rule1(notDigitsString);
-		assertEquals(test, test=0);
+		assertEquals(test, test=-1);
 	}
 
 }
