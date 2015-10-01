@@ -22,8 +22,8 @@ public class SudokuVerifier {
 	
 	public int rule3(String sudoku) {
 		String partString;
-		for( int i = 1; i < 10; i++ ) {
-			partString = sudoku.substring(0+i*9,8+i*9);
+		//for( int i = 1; i < 10; i++ ) {
+	//		partString = sudoku.substring(0+i*9,8+i*9);
 			for( int n = 1; n < 10; n++ ) {
 				if (!partString.contains("n")) {
 					return -3;
