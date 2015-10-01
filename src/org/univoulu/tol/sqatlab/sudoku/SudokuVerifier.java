@@ -28,7 +28,7 @@ public class SudokuVerifier {
 		partString = sudoku.substring(0,9);
 			for( int n = 1; n < 10; n++ ) {
 				if (!partString.contains("n")) {
-					System.out.print("n");
+					System.out.print(n);
 					return -3;
 				}
 			}
