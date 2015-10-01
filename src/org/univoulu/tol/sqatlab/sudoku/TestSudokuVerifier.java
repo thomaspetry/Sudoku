@@ -42,10 +42,10 @@ public class TestSudokuVerifier {
 		assertEquals(test, test=0);
 	}
 	
-	@Test
-	public void testRule3ResultsMinus3() {
-		int test = sudoku.rule3(incorrectString);
-		assertEquals(test, test=-3);
-	}
+//	@Test
+//	public void testRule3ResultsMinus3() {
+//		int test = sudoku.rule3(incorrectString);
+//		assertEquals(test, test=-3);
+//	}
 
 }
