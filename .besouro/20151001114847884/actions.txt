@@ -41,3 +41,6 @@ RefactoringAction 1443692080118 SudokuVerifier.java ADD String sudoku FIELD
 RefactoringAction 1443692132035 SudokuVerifier.java REMOVE sudoku FIELD
 EditAction 1443692149649 SudokuVerifier.java 522 3 5 0
 EditAction 1443692149727 TestSudokuVerifier.java 869 2 6 2
+UnitTestCaseAction 1443692150086 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443692150086 TestSudokuVerifier FAIL
+EditAction 1443692198374 TestSudokuVerifier.java 873 2 6 2
