@@ -246,3 +246,5 @@ UnitTestCaseAction 1443696126207 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443696126207 TestSudokuVerifier FAIL
 RefactoringAction 1443696130903 TestSudokuVerifier.java ADD void testRule3Results0() METHOD
 EditAction 1443696132900 TestSudokuVerifier.java 1484 6 12 6
+UnitTestCaseAction 1443696133181 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443696133181 TestSudokuVerifier FAIL
