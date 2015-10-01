@@ -25,8 +25,8 @@ public class TestSudokuVerifier {
 	
 	@Test
 	public void testRule1Results0() {
-		int test = sudoku.ruleLength(tooLongString);
-		assertEquals(test, test=-5);
+		int test = sudoku.rule1(correctString);
+		assertEquals(test, test=0);
 	}
 
 }
