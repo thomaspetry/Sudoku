@@ -99,3 +99,13 @@ UnitTestCaseAction 1443692675247 TestSudokuVerifier.java OK
 UnitTestSessionAction 1443692675247 TestSudokuVerifier OK
 RefactoringAction 1443692853312 TestSudokuVerifier.java RENAME notDigitsString=>String notOnlyDigitsString FIELD
 EditAction 1443692857243 TestSudokuVerifier.java 1226 4 8 4
+UnitTestCaseAction 1443692857524 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692857524 TestSudokuVerifier OK
+RefactoringAction 1443692866184 TestSudokuVerifier.java ADD void testRule1ResultsMinus1()/2 METHOD
+RefactoringAction 1443692867744 TestSudokuVerifier.java RENAME testRule1ResultsMinus1()/2=>void testRule2ResultsMinus1() METHOD
+RefactoringAction 1443692870320 TestSudokuVerifier.java RENAME testRule2ResultsMinus1()=>void testRule2ResultsMinus0() METHOD
+RefactoringAction 1443693058122 TestSudokuVerifier.java RENAME testRule2ResultsMinus0()=>void testRule3ResultsMinus0() METHOD
+RefactoringAction 1443693068420 TestSudokuVerifier.java ADD void testRule3ResultsMinus0()/2 METHOD
+RefactoringAction 1443693111123 TestSudokuVerifier.java RENAME testRule3ResultsMinus0()/2=>void testRule3ResultsMinus3() METHOD
+RefactoringAction 1443693113198 TestSudokuVerifier.java RENAME testRule3ResultsMinus0()=>void testRule3Results0() METHOD
+EditAction 1443693116646 TestSudokuVerifier.java 1481 6 12 6
