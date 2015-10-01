@@ -184,3 +184,8 @@ RefactoringAction 1443694610725 TestSudokuVerifier.java REMOVE testRule3ResultsM
 RefactoringAction 1443694613299 TestSudokuVerifier.java ADD void testRule3ResultsMinus3() METHOD
 RefactoringAction 1443694616347 TestSudokuVerifier.java REMOVE testRule3ResultsMinus3() METHOD
 EditAction 1443694618674 TestSudokuVerifier.java 1494 5 10 5
+UnitTestCaseAction 1443694618970 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443694618970 TestSudokuVerifier FAIL
+UnitTestCaseAction 1443694621811 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443694621811 TestSudokuVerifier FAIL
+EditAction 1443694673842 SudokuVerifier.java 818 4 11 0
