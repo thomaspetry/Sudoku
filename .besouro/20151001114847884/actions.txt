@@ -44,3 +44,7 @@ EditAction 1443692149727 TestSudokuVerifier.java 869 2 6 2
 UnitTestCaseAction 1443692150086 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443692150086 TestSudokuVerifier FAIL
 EditAction 1443692198374 TestSudokuVerifier.java 873 2 6 2
+UnitTestCaseAction 1443692198670 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692198670 TestSudokuVerifier OK
+RefactoringAction 1443692228096 TestSudokuVerifier.java RENAME test81CharactersLongIncorrectString()=>void test81CharactersLongTooLongString() METHOD
+EditAction 1443692231201 TestSudokuVerifier.java 871 2 6 2
