@@ -6,3 +6,6 @@ RefactoringAction 1443691013821 TestSudokuVerifier.java ADD String correctString
 RefactoringAction 1443691030812 TestSudokuVerifier.java ADD String incorrectString FIELD
 EditAction 1443691404038 TestSudokuVerifier.java 546 1 3 0
 EditAction 1443691681728 SudokuVerifier.java 493 2 5 0
+UnitTestCaseAction 1443691682680 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443691682680 TestSudokuVerifier OK
+EditAction 1443691690933 TestSudokuVerifier.java 545 1 3 1

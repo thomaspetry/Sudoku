@@ -12,7 +12,7 @@ public class TestSudokuVerifier {
 	public void test81CharactersLong() {
 		SudokuVerifier sudoku = new SudokuVerifier();
 		int test = sudoku.verify(correctString);
-		fail("Not yet implemented");
+		assertEquals(test, test=1);
 	}
 
 }
