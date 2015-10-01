@@ -232,3 +232,4 @@ UnitTestCaseAction 1443695961506 TestSudokuVerifier.java OK
 UnitTestSessionAction 1443695961506 TestSudokuVerifier OK
 RefactoringAction 1443696024392 TestSudokuVerifier.java ADD void testRule3ResultsMinus3() METHOD
 EditAction 1443696025312 SudokuVerifier.java 729 4 8 0
+EditAction 1443696025406 TestSudokuVerifier.java 1484 6 12 6
