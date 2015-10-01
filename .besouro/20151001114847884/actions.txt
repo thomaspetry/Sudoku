@@ -119,3 +119,4 @@ RefactoringAction 1443693159284 SudokuVerifier.java RENAME ruleLength(String)/2=
 RefactoringAction 1443693547318 SudokuVerifier.java ADD String partString FIELD
 RefactoringAction 1443693550407 SudokuVerifier.java REMOVE partString FIELD
 EditAction 1443693931026 SudokuVerifier.java 696 4 8 0
+EditAction 1443693931135 TestSudokuVerifier.java 1482 6 12 6

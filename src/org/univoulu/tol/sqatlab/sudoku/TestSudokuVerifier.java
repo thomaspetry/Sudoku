@@ -38,13 +38,13 @@ public class TestSudokuVerifier {
 	
 	@Test
 	public void testRule3Results0() {
-		int test = sudoku.rule1(correctString);
+		int test = sudoku.rule3(correctString);
 		assertEquals(test, test=0);
 	}
 	
 	@Test
 	public void testRule3ResultsMinus3() {
-		int test = sudoku.rule1(correctString);
+		int test = sudoku.rule3(correctString);
 		assertEquals(test, test=-3);
 	}
 
