@@ -60,3 +60,4 @@ RefactoringAction 1443692453563 TestSudokuVerifier.java RENAME testRule1()=>void
 RefactoringAction 1443692457697 TestSudokuVerifier.java RENAME testRule1Results()=>void testRule1Results0() METHOD
 RefactoringAction 1443692474329 TestSudokuVerifier.java ADD SudokuVerifier sudoku FIELD
 EditAction 1443692479617 SudokuVerifier.java 425 3 5 0
+EditAction 1443692479711 TestSudokuVerifier.java 1074 3 8 3
