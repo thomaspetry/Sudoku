@@ -109,3 +109,6 @@ RefactoringAction 1443693068420 TestSudokuVerifier.java ADD void testRule3Result
 RefactoringAction 1443693111123 TestSudokuVerifier.java RENAME testRule3ResultsMinus0()/2=>void testRule3ResultsMinus3() METHOD
 RefactoringAction 1443693113198 TestSudokuVerifier.java RENAME testRule3ResultsMinus0()=>void testRule3Results0() METHOD
 EditAction 1443693116646 TestSudokuVerifier.java 1481 6 12 6
+UnitTestCaseAction 1443693117816 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443693117816 TestSudokuVerifier.testRule3Results0 OK
+EditAction 1443693124664 TestSudokuVerifier.java 1482 6 12 6
