@@ -26,7 +26,7 @@ public class TestSudokuVerifier {
 	@Test
 	public void testRule1Results0() {
 		int test = sudoku.rule1(correctString);
-		assertEquals(test, test=0);
+		assertEquals(test, test=-1);
 	}
 
 }
