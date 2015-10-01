@@ -13,7 +13,7 @@ public class SudokuVerifier {
 		return 0;
 	}
 
-	private int rule1(String sudoku) {
+	public int rule1(String sudoku) {
 		for( int i = 0; i < sudoku.length(); i++ )
 		     if(!Character.isDigit(sudoku.charAt(i)))
 		       return -1;

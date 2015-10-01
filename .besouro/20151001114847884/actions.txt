@@ -12,3 +12,9 @@ EditAction 1443691690933 TestSudokuVerifier.java 545 1 3 1
 UnitTestCaseAction 1443691691229 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443691691229 TestSudokuVerifier FAIL
 EditAction 1443691695004 TestSudokuVerifier.java 545 1 3 1
+UnitTestCaseAction 1443691695379 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443691695379 TestSudokuVerifier OK
+RefactoringAction 1443691868574 TestSudokuVerifier.java ADD void test81CharactersLong()/2 METHOD
+RefactoringAction 1443691875252 TestSudokuVerifier.java RENAME test81CharactersLong()/2=>void test81CharactersLongIncorrectString() METHOD
+RefactoringAction 1443691878856 TestSudokuVerifier.java RENAME test81CharactersLong()=>void test81CharactersLongCorrectString() METHOD
+EditAction 1443691889918 TestSudokuVerifier.java 754 2 6 2
