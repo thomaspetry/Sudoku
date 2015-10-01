@@ -73,3 +73,8 @@ EditAction 1443692523942 TestSudokuVerifier.java 971 3 6 3
 UnitTestCaseAction 1443692524207 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443692524207 TestSudokuVerifier FAIL
 EditAction 1443692526828 TestSudokuVerifier.java 970 3 6 3
+UnitTestCaseAction 1443692527124 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692527124 TestSudokuVerifier OK
+RefactoringAction 1443692532961 TestSudokuVerifier.java ADD void testRule1Results0()/2 METHOD
+RefactoringAction 1443692537610 TestSudokuVerifier.java RENAME testRule1Results0()/2=>void testRule1Results FIELD
+EditAction 1443692545956 TestSudokuVerifier.java 1103 4 8 4

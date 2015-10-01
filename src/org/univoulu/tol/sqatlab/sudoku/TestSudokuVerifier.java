@@ -28,5 +28,11 @@ public class TestSudokuVerifier {
 		int test = sudoku.rule1(correctString);
 		assertEquals(test, test=0);
 	}
+	
+	@Test
+	public void testRule1ResultsMinus1() {
+		int test = sudoku.rule1(incorrectString);
+		assertEquals(test, test=-1);
+	}
 
 }
