@@ -84,3 +84,6 @@ RefactoringAction 1443692568034 TestSudokuVerifier.java ADD String correctString
 RefactoringAction 1443692575241 TestSudokuVerifier.java RENAME correctString/2=>String notString FIELD
 RefactoringAction 1443692581949 TestSudokuVerifier.java RENAME notString=>String notDigitsString FIELD
 EditAction 1443692599595 TestSudokuVerifier.java 1216 4 8 4
+UnitTestCaseAction 1443692599876 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692599876 TestSudokuVerifier OK
+EditAction 1443692610812 TestSudokuVerifier.java 1218 4 8 4
