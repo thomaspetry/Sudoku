@@ -48,3 +48,15 @@ UnitTestCaseAction 1443692198670 TestSudokuVerifier.java OK
 UnitTestSessionAction 1443692198670 TestSudokuVerifier OK
 RefactoringAction 1443692228096 TestSudokuVerifier.java RENAME test81CharactersLongIncorrectString()=>void test81CharactersLongTooLongString() METHOD
 EditAction 1443692231201 TestSudokuVerifier.java 871 2 6 2
+UnitTestCaseAction 1443692231466 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443692231466 TestSudokuVerifier OK
+RefactoringAction 1443692386172 TestSudokuVerifier.java ADD void test81CharactersLongTooLongString()/2 METHOD
+RefactoringAction 1443692390820 TestSudokuVerifier.java RENAME test81CharactersLongTooLongString()/2=>void testR() METHOD
+RefactoringAction 1443692391836 TestSudokuVerifier.java RENAME testR()=>void testRule1() METHOD
+RefactoringAction 1443692438118 TestSudokuVerifier.java RENAME test81CharactersLongCorrectString()=>void test81CharactersLongCorrectStringResults0() METHOD
+RefactoringAction 1443692441207 TestSudokuVerifier.java RENAME test81CharactersLongTooLongString()=>void test81CharactersLongTooLongStringResults() METHOD
+RefactoringAction 1443692442751 TestSudokuVerifier.java RENAME test81CharactersLongTooLongStringResults()=>void test81CharactersLongTooLongStringResults FIELD
+RefactoringAction 1443692453563 TestSudokuVerifier.java RENAME testRule1()=>void testRule1Results() METHOD
+RefactoringAction 1443692457697 TestSudokuVerifier.java RENAME testRule1Results()=>void testRule1Results0() METHOD
+RefactoringAction 1443692474329 TestSudokuVerifier.java ADD SudokuVerifier sudoku FIELD
+EditAction 1443692479617 SudokuVerifier.java 425 3 5 0
