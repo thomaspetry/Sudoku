@@ -27,7 +27,7 @@ public class SudokuVerifier {
 		System.out.print(partString = sudoku.substring(0,9));
 		partString = sudoku.substring(0,9);
 			for( int n = 1; n < 10; n++ ) {
-				if (!partString.contains("n")) {
+				if (!partString.contains("417369825")) {
 					return -3;
 				}
 			}
