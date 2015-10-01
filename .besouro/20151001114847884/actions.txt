@@ -112,3 +112,10 @@ EditAction 1443693116646 TestSudokuVerifier.java 1481 6 12 6
 UnitTestCaseAction 1443693117816 TestSudokuVerifier.java OK
 UnitTestSessionAction 1443693117816 TestSudokuVerifier.testRule3Results0 OK
 EditAction 1443693124664 TestSudokuVerifier.java 1482 6 12 6
+UnitTestCaseAction 1443693124960 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443693124960 TestSudokuVerifier FAIL
+RefactoringAction 1443693155681 SudokuVerifier.java ADD int ruleLength(String)/2 METHOD
+RefactoringAction 1443693159284 SudokuVerifier.java RENAME ruleLength(String)/2=>int rule3(String) METHOD
+RefactoringAction 1443693547318 SudokuVerifier.java ADD String partString FIELD
+RefactoringAction 1443693550407 SudokuVerifier.java REMOVE partString FIELD
+EditAction 1443693931026 SudokuVerifier.java 696 4 8 0
