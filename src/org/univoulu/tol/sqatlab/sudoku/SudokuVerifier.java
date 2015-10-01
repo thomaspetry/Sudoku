@@ -2,14 +2,19 @@ package org.univoulu.tol.sqatlab.sudoku;
 
 public class SudokuVerifier {
 
+	
 	public int verify(String candidateSolution) {
-		String sudoku = candidateSolution;
-		if (sudoku.length() != 81)
-			return -5;
+		
 	//	else {
 	//		rule1(sudoku);
 	//	}
 		// returns 1 if the candidate solution is correct
+		return 0;
+	}
+	
+	public int ruleLength(String sudoku) {
+		if (sudoku.length() != 81)
+			return -5;
 		return 0;
 	}
 

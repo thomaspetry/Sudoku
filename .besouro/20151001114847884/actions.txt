@@ -29,3 +29,14 @@ UnitTestSessionAction 1443691944415 TestSudokuVerifier FAIL
 RefactoringAction 1443691978271 TestSudokuVerifier.java ADD String incorrectString/2 FIELD
 RefactoringAction 1443691983934 TestSudokuVerifier.java RENAME incorrectString/2=>String tooLongString FIELD
 EditAction 1443691994825 TestSudokuVerifier.java 865 2 6 2
+UnitTestCaseAction 1443691995105 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443691995105 TestSudokuVerifier OK
+RefactoringAction 1443692021457 SudokuVerifier.java ADD int test FIELD
+RefactoringAction 1443692023001 SudokuVerifier.java REMOVE test FIELD
+RefactoringAction 1443692031753 SudokuVerifier.java ADD int ruleLeng FIELD
+RefactoringAction 1443692034842 SudokuVerifier.java RENAME ruleLeng=>int ruleLength FIELD
+RefactoringAction 1443692037416 SudokuVerifier.java RENAME ruleLength=>int ruleLength() METHOD
+RefactoringAction 1443692041520 SudokuVerifier.java RENAME ruleLength()=>int ruleLength(String) METHOD
+RefactoringAction 1443692080118 SudokuVerifier.java ADD String sudoku FIELD
+RefactoringAction 1443692132035 SudokuVerifier.java REMOVE sudoku FIELD
+EditAction 1443692149649 SudokuVerifier.java 522 3 5 0

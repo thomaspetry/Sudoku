@@ -29,3 +29,12 @@
 1443691901042 test-addition 1 32 true
 1443691901043 test-addition 2 32 true
 1443691901044 test-addition 1 32 true
+1443691995105 regression 2 50 true
+1443691995106 refactoring 3 50 true
+1443691995107 refactoring 3 50 true
+1443691995108 refactoring 3 50 true
+1443691995109 refactoring 3 50 true
+1443691995110 refactoring 1B 50 true
+1443691995111 refactoring 2B 50 true
+1443691995112 refactoring 2B 50 true
+1443691995113 refactoring 1B 50 true
