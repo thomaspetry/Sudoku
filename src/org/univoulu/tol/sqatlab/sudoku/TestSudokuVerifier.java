@@ -44,7 +44,7 @@ public class TestSudokuVerifier {
 	
 	@Test
 	public void testRule3ResultsMinus3() {
-		int test = sudoku.rule3(correctString);
+		int test = sudoku.rule3(incorrectString);
 		assertEquals(test, test=-3);
 	}
 
