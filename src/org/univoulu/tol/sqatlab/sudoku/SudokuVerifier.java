@@ -29,7 +29,6 @@ public class SudokuVerifier {
 					return -3;
 				}
 			}
-			partString ="";
 		}	
 		return 0;
 	}

@@ -239,3 +239,6 @@ UnitTestCaseAction 1443696046049 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443696046049 TestSudokuVerifier FAIL
 RefactoringAction 1443696076346 TestSudokuVerifier.java REMOVE testRule3Results0() METHOD
 EditAction 1443696079169 TestSudokuVerifier.java 1494 5 10 5
+UnitTestCaseAction 1443696079450 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443696079450 TestSudokuVerifier FAIL
+EditAction 1443696125911 SudokuVerifier.java 709 4 8 0
